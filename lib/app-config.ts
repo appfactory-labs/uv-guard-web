@@ -4,8 +4,8 @@ export const appConfig = {
   tagline: "Plan your sun time with confidence.",
   description:
     "Track UV, sun exposure, tanning sessions, and sunscreen reminders with WeatherKit-backed forecasts.",
-  iosUrl: "#", // TODO: Replace with App Store URL when ready.
-  androidUrl: "#", // TODO: Replace with Google Play URL when ready.
+  iosUrl: "https://apps.apple.com/app/id6777101064",
+  androidUrl: "https://play.google.com/store/apps/details?id=com.appfactory.uvguard",
   company: "App Factory Labs",
   supportPath: "/support",
   supportApiPath: "/api/support",
